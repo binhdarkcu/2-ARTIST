@@ -44,4 +44,50 @@ a{text-decoration: none;}
       }
     }
   }
+  .linkbox{
+    float: right;
+    padding-right: 10.769em;
+    .link{
+      float: left;
+      ul{
+        li{
+          &.tw{
+            width: 14.231em;
+          }
+          &.lk{
+            width: 14.077em;
+          }
+          &.ins{
+            width: 16.615em;
+          }
+          &.pin{
+            width: 17.462em;
+          }
+          &.fb{
+            width: 15.154em;
+          }
+          a{
+            img{
+              width: 100%;
+            }
+          }
+        }
+      }
+    }
+    .line{
+      float: left;
+      width: 4.538em;
+      margin-top: -9.923em;
+      img{
+        width: 100%;
+      }
+    }
+    .logo{
+      width: 18.000em;
+      float: left;
+      img{
+        width: 100%;
+      }
+    }
+  }
 }

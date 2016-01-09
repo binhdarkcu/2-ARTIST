@@ -18,7 +18,7 @@ var SiteMain = (function() {
 	}
     function respone(){
         var w = $(window).width();
-        setting.font = (w*13)/setting.w;
+        setting.font = (w*setting.font)/setting.w;
         $('body').css('font-size', setting.font + 'px' );
     }
 	function openPopup(idDiv){
