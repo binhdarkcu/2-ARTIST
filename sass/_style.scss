@@ -1,0 +1,47 @@
+
+/* ! PRIMARY STYLES */
+html, body{width:100%; }
+body {
+	font: $fontArial12; color:#fff;
+}
+a{text-decoration: none;}
+.clear{clear:both;}
+
+.content700{width:700px;}
+.content820{width:820px;}
+.content890{width:890px;}
+.content940{width:940px;}
+
+.wrapper{
+  width: 100%;
+  margin: 0 auto;
+}
+
+.home{
+  .bganimate{
+    background: url("../images/bg.gif") left center;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    position: absolute;
+  }
+  .text-content{
+    position: relative;
+    padding: 7.231em 0 0 4.508em;
+    .bg{
+      margin-bottom: 4.385em;
+      p{
+        background: #33cccc;
+        display: inline-block;
+        padding-left: 2px;
+        margin-bottom: 3px;
+        font-font: "Helvetica", Arial;
+        font-size: 3.231em;
+        color: #000;
+        span{
+          color: #fff;
+        }
+      }
+    }
+  }
+}
