@@ -1,13 +1,110 @@
 <section class="home">
 	<div class="bganimate">
-
 	</div>
     <div class="text-content">
-        <div class="bg"><p>Inventor, speaker, author, entrepreneur, innovator, thinker-out-of-the-box.</p>
-            <p>Passionate about surfing, snowboarding, Kung fu,… the list goes on and on.</p>
-            <p>   But Belgian Peter Van Riet is probably best known as an internationally</p>
-            <p>  recognized designer and owner of <span class="white">Studio Peter Van Riet.</span></p></div>
-        <div class="bg"><p>Check out the book, <span class="white">Create Meaningful Stuff</span>, which pretty much explains it all.</p></div>
+        <div class="desktop">
+            <div class="bg">
+                <div class="row">
+                    <p>Inventor, speaker, author, entrepreneur, innovator, thinker-out-of-the-box.</p>
+                </div>
+                <div class="row">
+                    <p>Passionate about surfing, snowboarding, Kung fu,… the list goes on and on.</p>
+                </div>
+                <div class="row">
+                    <p>But Belgian Peter Van Riet is probably best known as an internationally</p>
+                </div>
+                <div class="row">
+                    <p>  recognized designer and owner of <span class="white">Studio Peter Van Riet</span>.</p>
+                </div>
+            </div>
+            <div class="bg">
+                <p>Check out the book, <span class="white">Create Meaningful Stuff</span>, which pretty much explains it all.</p>
+            </div>
+        </div>
+        <div class="ipad">
+            <div class="bg">
+                <div class="row">
+                    <p>Inventor, speaker, author, entrepreneur,</p>
+                </div>
+                <div class="row">
+                    <p>innovator, thinker-out-of-the-box.</p>
+                </div>
+                <div class="row">
+                    <p>Passionate about surfing, snowboarding,</p>
+                </div>
+                <div class="row">
+                    <p> Kung fu,… the list goes on and on.</p>
+                </div>
+                <div class="row">
+                    <p>But Belgian Peter Van Riet is probably best</p>
+                </div>
+                <div class="row">
+                    <p>known as an internationally recognized designer</p>
+                </div>
+                <div class="row">
+                    <p>and owner of <span class="white">Studio Peter Van Riet</span>.</p>
+                </div>
+            </div>
+            <div class="bg">
+                <div class="row">
+                    <p>Check out the book, <span class="white">Create Meaningful Stuff</span>, </p>
+                </div>
+                <div class="row">
+                    <p>which pretty much explains it all.</p>
+                </div>
+            </div>
+        </div>
+        <div class="mobile">
+            <div class="bg">
+                <div class="row">
+                    <p>Inventor, speaker, author,</p>
+                </div>
+                <div class="row">
+                    <p>entrepreneur, innovator,</p>
+                </div>
+                <div class="row">
+                    <p>thinker-out-of-the-box.</p>
+                </div>
+                <div class="row">
+                    <p>Passionate about surfing,</p>
+                </div>
+                <div class="row">
+                    <p>snowboarding, Kung fu,…</p>
+                </div>
+                <div class="row">
+                    <p>the list goes on and on.</p>
+                </div>
+                <div class="row">
+                    <p>But Belgian Peter Van Riet</p>
+                </div>
+                <div class="row">
+                    <p>is probably best known as an</p>
+                </div>
+                <div class="row">
+                    <p>internationally recognized</p>
+                </div>
+                <div class="row">
+                    <p>designer and owner of </p>
+                </div>
+                <div class="row">
+                    <p><span class="white">Studio Peter Van Riet</span>.</p>
+                </div>
+            </div>
+            <div class="bg">
+                <div class="row">
+                    <p>Check out the book,</p>
+                </div>
+                <div class="row">
+                    <p><span class="white">Create Meaningful Stuff</span>, which</p>
+                </div>
+                <div class="row">
+                    <p>pretty much explains it all.</p>
+                </div>
+            </div>
+            <div class="arrow">
+                <a href="#"><img src="images/arrow.png"/></a>
+            </div>
+        </div>
         <div class="linkbox">
             <div class="link">
                 <ul>

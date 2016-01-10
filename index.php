@@ -11,7 +11,12 @@
 <title>Drop the Beat</title>
 <meta name="description" content="">
 <meta name="author" content="">
-<meta name="viewport" content="width=640">
+<?php
+//contact
+require 'inc/application_top.php';
+?>
+<?php echo $mobile_browser > 0 ? '<meta name="viewport" content="width=750" />':'' ?>
+<?php echo $tablet_browser > 0 ? '<meta name="viewport" content="width=device-width, initial-scale=1">':'' ?>
 
 <link rel="stylesheet" href="css/all.css">
 <link href='http://fonts.googleapis.com/css?family=Press+Start+2P' rel='stylesheet' type='text/css'>

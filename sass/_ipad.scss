@@ -1,0 +1,97 @@
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  .home{
+    .linkbox .logo{
+      width: 159px;
+    }
+    .text-content{
+      padding-top: 50px;
+      padding-left: 50px;
+    }
+    .mobile, .desktop{
+      display: none;
+    }
+    .bganimate{
+      height: 1250px;
+      width: 1024px;
+    }
+    .ipad{
+
+      display: block;
+      .bg {
+        margin-bottom: 53px;
+        .row {
+          p{
+            font-size: 39px;
+            padding-left: 10px;
+            margin-bottom: 4px;
+            padding-bottom: 6px;
+          }
+        }
+      }
+    }
+    .linkbox{
+      margin-top: 284px;
+      margin-bottom: 60px;
+      padding-right: 48px;
+      .line{
+        width: 38px;
+      }
+      .link{
+        margin-right: 20px;
+        ul{
+          li{
+            &.tw{
+              width: 129px;
+            }
+            &.lk{
+              width: 126px;
+            }
+            &.ins{
+              width: 144px;
+            }
+            &.pin{
+              width: 152px;
+            }
+            &.fb{
+              width: 134px;
+            }
+            a{
+              img{
+                width: 100%;
+              }
+            }
+          }
+        }
+      }
+    }
+
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 834px) {
+  .home {
+    position: relative;
+    min-width: 768px;
+    overflow: hidden;
+    .text-content{
+      padding-top: 37px;
+      padding-left: 40px;
+    }
+    .bganimate{
+      height: 1055px;
+    }
+    .linkbox{
+      margin-top: 213px;
+      margin-bottom: 50px;
+    }
+    .ipad {
+      .bg {
+        margin-bottom: 43px;
+        .row {
+          p {
+            font-size: 30px;
+          }
+        }
+      }
+    }
+  }
+}

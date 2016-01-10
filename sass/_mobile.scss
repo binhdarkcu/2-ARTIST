@@ -1,0 +1,85 @@
+@media only screen and (min-width: 0) and (max-width: 767px) {
+  body{
+    min-width: 750px;
+    overflow-x: auto;
+  }
+
+  .home{
+    .text-content{
+      padding-top: 38px;
+      padding-left: 46px;
+      .bg {
+        margin-bottom: 42px;
+        .row {
+          p {
+            font-size: 43px;
+            padding-bottom: 10px;
+            margin-bottom: 10px;
+            padding-left: 17px;
+          }
+        }
+      }
+    }
+    .bganimate{
+      width: 768px;
+      height: 1797px;
+    }
+    .desktop, .ipad{
+      display: none;
+    }
+    .mobile{
+      padding-bottom: 114px;
+      display: block;
+      .arrow{
+        margin: 0 auto;
+        display: table;
+        padding-right: 46px;
+      }
+    }
+    .linkbox{
+      float: none;
+      margin: 114px auto 72px;
+      padding-right: 48px;
+      display: table;
+      .link{
+        margin-right: 45px;
+        ul{
+          li{
+            padding-bottom: 5px;
+            &.tw{
+              width: 187px;
+            }
+            &.lk{
+              width: 185px;
+              margin-left: 4px;
+            }
+            &.ins{
+              width: 217px;
+              margin-left: 10px;
+            }
+            &.pin{
+              width: 230px;
+              margin-left: 30px;
+            }
+            &.fb{
+              width: 198px;
+              margin-left: 68px;
+            }
+            a{
+              img{
+                width: 100%;
+              }
+            }
+          }
+        }
+      }
+      .line{
+        width: 61px;
+        margin-top: -126px;
+      }
+      .logo{
+        width: 234px;
+      }
+    }
+  }
+}
