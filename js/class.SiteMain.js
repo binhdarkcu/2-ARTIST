@@ -17,8 +17,7 @@ var SiteMain = (function() {
 		$('input.iCheckRadio').iCheck();
 	}
     function respone(){
-        console.log($(window).height());
-        setting.font = ($(window).height() * 13) / setting.h;
+        setting.font = ($(window).width() * 13) / setting.w;
         $('body').css('font-size', setting.font + 'px');
     }
 	function openPopup(idDiv){
