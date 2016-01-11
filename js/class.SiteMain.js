@@ -7,12 +7,17 @@ var SiteMain = (function() {
         h       :   1189
     };
 	function init(){
+        scrollDown();
         respone();
         $(window).resize(function(){
             respone();
         });
 	}
-	
+	function scrollDown(){
+        $('#scrolldown a').click(function(){
+           $('body').animate({scrollTop:$(document).height()},200);
+        });
+    }
 	function createRadio(){
 		$('input.iCheckRadio').iCheck();
 	}

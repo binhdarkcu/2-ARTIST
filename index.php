@@ -8,7 +8,7 @@
 <head>
 <meta charset="utf-8">
 <link rel="shortcut icon" href="images/favicon.ico" />
-<title>Drop the Beat</title>
+<title>2-ARTIST</title>
 <meta name="description" content="">
 <meta name="author" content="">
 <?php

@@ -5,7 +5,7 @@
     }
     .text-content{
       padding-top: 50px;
-      padding-left: 50px;
+      padding-left: 48px;
     }
     .mobile, .desktop{
       display: none;
@@ -21,16 +21,18 @@
         margin-bottom: 53px;
         .row {
           p{
-            font-size: 39px;
+            font-size: 38px;
             padding-left: 10px;
             margin-bottom: 4px;
             padding-bottom: 6px;
+            line-height: 1;
+            padding-top: 2px;
           }
         }
       }
     }
     .linkbox{
-      margin-top: 284px;
+      margin-top: 270px;
       margin-bottom: 60px;
       padding-right: 48px;
       padding-bottom:0;
@@ -68,28 +70,29 @@
 
   }
 }
-@media only screen and (min-width: 768px) and (max-width: 834px) {
+@media only screen and (min-width: 768px) and (max-width: 970px) {
   .home {
     position: relative;
     min-width: 768px;
     overflow: hidden;
     .text-content{
-      padding-top: 37px;
-      padding-left: 40px;
+      padding-top: 36px;
+      padding-left: 37px;
     }
     .bganimate{
       height: 1055px;
     }
     .linkbox{
-      margin-top: 213px;
-      margin-bottom: 50px;
+      margin-top: 200px;
+      margin-bottom: 109px;
     }
     .ipad {
       .bg {
-        margin-bottom: 43px;
+        margin-bottom: 39px;
         .row {
           p {
-            font-size: 30px;
+            font-size: 29px;
+            padding-bottom: 4px;
           }
         }
       }

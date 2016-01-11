@@ -101,33 +101,33 @@
                     <p>pretty much explains it all.</p>
                 </div>
             </div>
-            <div class="arrow">
-                <a href="#"><img src="images/arrow.png"/></a>
+            <div class="arrow" id="scrolldown">
+                <a href="javascript:void(0);"><img src="images/arrow.png"/></a>
             </div>
         </div>
         <div class="linkbox">
             <div class="link">
                 <ul>
                     <li class="tw">
-                        <a href="#"><img src="images/tw.png"/></a>
+                        <a href="https://twitter.com/pvanriet" target="_blank"><img src="images/tw.png"/></a>
                     </li>
                     <li class="lk">
-                        <a href="#"><img src="images/lk.png"/></a>
+                        <a href="https://www.linkedin.com/profile/view?id=AAkAAAALijEBD5qO_ZsxHYqgQLmvovjygoLmlVU"><img src="images/lk.png" target="_blank"/></a>
                     </li>
                     <li class="ins">
-                        <a href="#"><img src="images/in.png"/></a>
+                        <a href="https://www.instagram.com/petervanriet/" target="_blank"><img src="images/in.png" target="_blank"/></a>
                     </li>
                     <li class="pin">
-                        <a href="#"><img src="images/pin.png"/></a>
+                        <a href="#"><img src="images/pin.png" target="_blank"/></a>
                     </li>
                     <li class="fb">
-                        <a href="#"><img src="images/fb.png"/></a>
+                        <a href="www.facebook.com/PeterVanRiet"><img src="images/fb.png" target="_blank"/></a>
                     </li>
                 </ul>
             </div>
             <div class="line"><img src="images/line.png"/></div>
             <div class="logo">
-                <a href="#"><img src="images/stupid.png"/></a>
+                <a href="http://www.studiopetervanriet.com" target="_blank"><img src="images/stupid.png"/></a>
             </div>
         </div>
     </div>
