@@ -8,13 +8,13 @@
                     <p>Inventor, speaker, author, entrepreneur, innovator, thinker-out-of-the-box.</p>
                 </div>
                 <div class="row">
-                    <p>Passionate about surfing, snowboarding, Kung fu,… the list goes on and on.</p>
+                    <p>Passionate about surfing, snowboarding, kung fu,… the list goes on and on.</p>
                 </div>
                 <div class="row">
                     <p>But Belgian Peter Van Riet is probably best known as an internationally</p>
                 </div>
                 <div class="row">
-                    <p>  recognized designer and owner of <span class="white">Studio Peter Van Riet</span>.</p>
+                    <p>recognized designer and owner of <span class="white">Studio Peter Van Riet</span>.</p>
                 </div>
             </div>
             <div class="bg">
@@ -33,7 +33,7 @@
                     <p>Passionate about surfing, snowboarding,</p>
                 </div>
                 <div class="row">
-                    <p> Kung fu,… the list goes on and on.</p>
+                    <p> kung fu,… the list goes on and on.</p>
                 </div>
                 <div class="row">
                     <p>But Belgian Peter Van Riet is probably best</p>
@@ -69,7 +69,7 @@
                     <p>Passionate about surfing,</p>
                 </div>
                 <div class="row">
-                    <p>snowboarding, Kung fu,…</p>
+                    <p>snowboarding, kung fu,…</p>
                 </div>
                 <div class="row">
                     <p>the list goes on and on.</p>
@@ -112,16 +112,16 @@
                         <a href="https://twitter.com/pvanriet" target="_blank"><img src="images/tw.png"/></a>
                     </li>
                     <li class="lk">
-                        <a href="https://www.linkedin.com/profile/view?id=AAkAAAALijEBD5qO_ZsxHYqgQLmvovjygoLmlVU"><img src="images/lk.png" target="_blank"/></a>
+                        <a href="https://www.linkedin.com/profile/view?id=AAkAAAALijEBD5qO_ZsxHYqgQLmvovjygoLmlVU" target="_blank"><img src="images/lk.png" target="_blank"/></a>
                     </li>
                     <li class="ins">
-                        <a href="https://www.instagram.com/petervanriet/" target="_blank"><img src="images/in.png" target="_blank"/></a>
+                        <a href="https://www.instagram.com/petervanriet/" target="_blank"><img src="images/in.png"/></a>
                     </li>
                     <li class="pin">
-                        <a href="#"><img src="images/pin.png" target="_blank"/></a>
+                        <a href="#" target="_blank"><img src="images/pin.png"/></a>
                     </li>
                     <li class="fb">
-                        <a href="www.facebook.com/PeterVanRiet"><img src="images/fb.png" target="_blank"/></a>
+                        <a href="http://www.facebook.com/PeterVanRiet" target="_blank"><img src="images/fb.png"/></a>
                     </li>
                 </ul>
             </div>

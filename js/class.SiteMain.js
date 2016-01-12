@@ -15,7 +15,7 @@ var SiteMain = (function() {
 	}
 	function scrollDown(){
         $('#scrolldown a').click(function(){
-           $('body').animate({scrollTop:$(document).height()},200);
+           $('body').animate({scrollTop:$('.linkbox').offset().top},200);
         });
     }
 	function createRadio(){
