@@ -14,11 +14,11 @@
                     <p>But Belgian Peter Van Riet is probably best known as an internationally</p>
                 </div>
                 <div class="row">
-                    <p>recognized designer and owner of <span class="white">Studio Peter Van Riet</span>.</p>
+                    <p>recognized designer and owner of <a href="http://www.studiopetervanriet.com" target="_blank"><span class="white">Studio Peter Van Riet</span></a>.</p>
                 </div>
             </div>
             <div class="bg">
-                <p>Check out the book, <span class="white">Create Meaningful Stuff</span>, which pretty much explains it all.</p>
+                <p>Check out the book, <a href="http://www.studiopetervanriet.com/the-book/" target="_blank"><span class="white">Create Meaningful Stuff</span></a>, which pretty much explains it all.</p>
             </div>
         </div>
         <div class="ipad">
@@ -42,12 +42,12 @@
                     <p>known as an internationally recognized designer</p>
                 </div>
                 <div class="row">
-                    <p>and owner of <span class="white">Studio Peter Van Riet</span>.</p>
+                    <p>and owner of <a href="http://www.studiopetervanriet.com" target="_blank"><span class="white">Studio Peter Van Riet</span></a>.</p>
                 </div>
             </div>
             <div class="bg">
                 <div class="row">
-                    <p>Check out the book, <span class="white">Create Meaningful Stuff</span>, </p>
+                    <p>Check out the book, <a href="http://www.studiopetervanriet.com/the-book/" target="_blank"><span class="white">Create Meaningful Stuff</span></a>, </p>
                 </div>
                 <div class="row">
                     <p>which pretty much explains it all.</p>
@@ -87,7 +87,7 @@
                     <p>designer and owner of </p>
                 </div>
                 <div class="row">
-                    <p><span class="white">Studio Peter Van Riet</span>.</p>
+                    <p><a href="http://www.studiopetervanriet.com" target="_blank"><span class="white">Studio Peter Van Riet</span></a>.</p>
                 </div>
             </div>
             <div class="bg">
@@ -95,7 +95,7 @@
                     <p>Check out the book,</p>
                 </div>
                 <div class="row">
-                    <p><span class="white">Create Meaningful Stuff</span>, which</p>
+                    <p><a href="http://www.studiopetervanriet.com/the-book/" target="_blank"><span class="white">Create Meaningful Stuff</span></a>, which</p>
                 </div>
                 <div class="row">
                     <p>pretty much explains it all.</p>
@@ -118,7 +118,7 @@
                         <a href="https://www.instagram.com/petervanriet/" target="_blank"><img src="images/in.png"/></a>
                     </li>
                     <li class="pin">
-                        <a href="#" target="_blank"><img src="images/pin.png"/></a>
+                        <a href="https://www.pinterest.com/petervanriet/" target="_blank"><img src="images/pin.png"/></a>
                     </li>
                     <li class="fb">
                         <a href="http://www.facebook.com/PeterVanRiet" target="_blank"><img src="images/fb.png"/></a>

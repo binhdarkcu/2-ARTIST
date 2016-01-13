@@ -52,6 +52,10 @@ body{
         }
         a{
           text-decoration: none;
+          outline: none;
+          &:hover, &:active, &:focus{
+            color: #fff;
+          }
         }
       }
     }
@@ -60,7 +64,7 @@ body{
     float: right;
     padding-right: 10.769em;
     margin-top: 13.154em;
-    padding-bottom: 10.185em;
+    padding-bottom: 5.185em;
     .link{
       margin-right: 2.308em;
       float: left;

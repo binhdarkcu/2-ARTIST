@@ -76,15 +76,16 @@
     min-width: 768px;
     overflow: hidden;
     .text-content{
-      padding-top: 36px;
-      padding-left: 37px;
+      padding-top: 37px;
+      padding-left: 35px;
     }
     .bganimate{
-      height: 1055px;
+      height: 100%;
+      position: fixed;
     }
     .linkbox{
-      margin-top: 124px;
-      margin-bottom: 98px;
+      margin-top: 134px;
+      margin-bottom: 120px;
     }
     .ipad {
       .bg {

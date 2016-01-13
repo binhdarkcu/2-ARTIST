@@ -2,7 +2,7 @@
 var SiteMain = (function() {
     //PARAMATER
     var setting = {
-        font	:	13,
+        font	:	14,
         w		:	1779,
         h       :   1189
     };
@@ -22,7 +22,7 @@ var SiteMain = (function() {
 		$('input.iCheckRadio').iCheck();
 	}
     function respone(){
-        setting.font = ($(window).width() * 13) / setting.w;
+        setting.font = ($(window).height() * 13) / setting.h;
         $('body').css('font-size', setting.font + 'px');
     }
 	function openPopup(idDiv){
