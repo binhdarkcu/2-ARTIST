@@ -3,7 +3,9 @@
     min-width: 750px;
     overflow-x: auto;
   }
-
+  body{
+    overflow-y: scroll;
+  }
   .home{
     .text-content{
       padding-top: 38px;

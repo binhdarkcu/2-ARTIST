@@ -1,4 +1,7 @@
 @media only screen and (min-width: 768px) and (max-width: 1024px) {
+  body{
+    overflow-y: scroll;
+  }
   .home{
     .linkbox .logo{
       width: 159px;

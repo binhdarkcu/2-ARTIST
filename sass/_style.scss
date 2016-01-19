@@ -17,8 +17,17 @@ a{text-decoration: none;}
   margin: 0 auto;
 }
 body{
-  overflow-x: hidden;
+  overflow-y: hidden;
   min-height: 500px;
+}
+body.Safari{
+  .home{
+    .text-content{
+      .desktop{
+        width: 140.846em;
+      }
+    }
+  }
 }
 .home{
   .bganimate{
@@ -27,11 +36,15 @@ body{
     height: 100%;
     min-height: 89.862em;
     background-size: cover;
-    position: absolute;
+    position: fixed;
   }
   .text-content{
     position: relative;
     padding: 7.231em 0 0 6.077em;
+
+    .desktop{
+      width: 124.846em;
+    }
     .bg{
       margin-bottom: 4.846em;
       .row{

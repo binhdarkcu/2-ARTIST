@@ -8,7 +8,7 @@
 <head>
 <meta charset="utf-8">
 <link rel="shortcut icon" href="images/favicon.ico" />
-<title>2-ARTIST</title>
+<title>Peter Van Riet</title>
 <meta name="description" content="">
 <meta name="author" content="">
 <?php
@@ -23,6 +23,7 @@ require 'inc/application_top.php';
 
 <script src="js/jquery-1.9.1.min.js"></script>
 <script src="js/jquery.easing.1.3.js"></script>
+    <script src="js/detect.js"></script>
 <script src="js/class.SiteMain.js"></script>
 <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 </head>
